@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", : NPO 1
 http://ky-tv.cc:25461/waled/waled/222534
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", NL: NPO 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", : NPO 2
 http://ky-tv.cc:25461/waled/waled/222533
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", NL: NPO 3
