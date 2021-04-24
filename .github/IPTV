@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", NL: NPO 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", : NPO 1
 http://ky-tv.cc:25461/waled/waled/222534
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", NL: NPO 2
