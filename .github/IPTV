@@ -1,65 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", NPO 1 HD NL
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1349
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| NPO 1 HD
+http://rv.imax.re:80/307235264240/307235264240/79660
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", NPO 2 HD NL
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1350
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| NPO 2 HD
+http://rv.imax.re:80/307235264240/307235264240/79659
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", NPO 3 HD NL
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1351
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| NPO 3 HD
+http://rv.imax.re:80/307235264240/307235264240/79658
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", NPO NIEUWS [H265]
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104393
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| CARTOON NETWORK
+http://rv.imax.re:80/307235264240/307235264240/79632
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", NPO POLITIEK [H265]
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104394
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| DISNEY CHANNEL HD
+http://rv.imax.re:80/307235264240/307235264240/79633
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", USA | CNN
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9493
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |CA| CNN INTERNATIONAL
+http://rv.imax.re:80/307235264240/307235264240/81255
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", EXYU:DISCOVERY HD
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/8212
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| BBC AMERICA
+http://rv.imax.re:80/307235264240/307235264240/81050
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", DISCOVERY ID FHD NL [H265]
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104359
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| HGTV HD
+http://rv.imax.re:80/307235264240/307235264240/81106
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", USA | FOOD NETWORK
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9481
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |EXYU| NATIONAL GEOGRAPHIC
+http://rv.imax.re:80/307235264240/307235264240/85252
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", USA | ESPN 1
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9484
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| DISCOVERY HD
+http://rv.imax.re:80/307235264240/307235264240/79533
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", USA | ESPN 2
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9483
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |GENERAL| INVESTIGATION DISCOVERY
+http://rv.imax.re:80/307235264240/307235264240/85069
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", USA | TNT
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9434
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ANIMAL PLANET HD
+http://rv.imax.re:80/307235264240/307235264240/79534
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", US | HBO SIGNATURE
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/9463
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN 1
+http://rv.imax.re:80/307235264240/307235264240/80946
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", BBC 1 HD UK
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/1495
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN 2
+http://rv.imax.re:80/307235264240/307235264240/80945
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", NL: BVN
-http://ky-iptv.com:25461/K7NzgSV1Kw/JNLvjuuBSh/1135634
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ZIGGO SPORT VOETBAL HD
+http://rv.imax.re:80/307235264240/307235264240/79519
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", DISNEY CHANNEL FHD NL [H265]
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/104348
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| FOX HD
+http://rv.imax.re:80/307235264240/307235264240/79640
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", Eurosports 1 HD NL
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/34049
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| FOX SPORTS 1 HD
+http://rv.imax.re:80/307235264240/307235264240/79526
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", EUROSPORT 2 HD NL
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/38918
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| CBS NY HD
+http://rv.imax.re:80/307235264240/307235264240/81058
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", FOX HD NL
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/7181
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| CBS SPORTS NETWORK
+http://rv.imax.re:80/307235264240/307235264240/80941
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", FOX SPORTS 1 HD NL
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/264
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| NBC SPORTS NETWORK
+http://rv.imax.re:80/307235264240/307235264240/80966
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", MTV HD NL
-http://iptv.iptivihd.com:8888/VisionTV352678/QSAUKYAxdO/45444
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |GENERAL| FOOD NETWORK
+http://rv.imax.re:80/307235264240/307235264240/85068
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| HBO HD
+http://rv.imax.re:80/307235264240/307235264240/81216
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| BET HD
+http://rv.imax.re:80/307235264240/307235264240/81051
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| MTV LIVE HD
+http://rv.imax.re:80/307235264240/307235264240/79584
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| EUROSPORT 1 HD
+http://rv.imax.re:80/307235264240/307235264240/79512
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| EUROSPORT 2 HD
+http://rv.imax.re:80/307235264240/307235264240/79511
