@@ -18,16 +18,6 @@ http://rv.imax.re:80/307235264240/307235264240/81024
 http://rv.imax.re:80/307235264240/307235264240/79633
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| ATV 12.1 test
-https://www.tikilive.com/embed?scheme=embedChannel&channelId=34967&pwidth=1280&pheight=720&autoplay=yes&showChat=no.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| ATV 12.1 test 2.0
-https://edge2.tikitive.com/tivehttporigin_tikilive/34967/amist:mainstream/chunklist_b62132310.m3u8?p=local&op_id=19userId=0&channelld-34967&stime-1623703440&ime=1623789840&token=0652c9ed8f9ccd5b95324
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/x5Mdzwv.png" tvg-country="VE" tvg-url="" group-title="News",TeleSUR English
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/chunklist_w801355776.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/x5Mdzwv.png" tvg-country="VE" tvg-url="" group-title="News",TeleSUR English
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| SCCNTV1 
 https://video1.getstreamhosting.com:1936/8040/8040/playlist.m3u8
