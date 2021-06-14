@@ -18,7 +18,7 @@ http://rv.imax.re:80/307235264240/307235264240/81024
 http://rv.imax.re:80/307235264240/307235264240/79633
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| ATV 12.1 test
-https://edge2.tikilive.com/livehttporigin_tikilive/34967/amlst:mainstream/chunklist_b2132310.m3u8?p=local&op_id=19&userId=0&channelId=34967&stime=1623680271&etime=1623766671&token=0bbc02f59dc811080ced1
+https://www.tikilive.com:8080/34967
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| SCCNTV1 
 https://video1.getstreamhosting.com:1936/8040/8040/playlist.m3u8
