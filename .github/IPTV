@@ -17,7 +17,7 @@ http://rv.imax.re:80/307235264240/307235264240/81024
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| DISNEY CHANNEL HD
 http://rv.imax.re:80/307235264240/307235264240/79633
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |SUR| ATV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |SUR| ATV 12.1
 https://edge2.tikilive.com/livehttporigin_tikilive/34967/amlst:mainstream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |SUR| SCCNTV1 
