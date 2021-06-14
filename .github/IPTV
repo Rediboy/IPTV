@@ -17,6 +17,9 @@ http://rv.imax.re:80/307235264240/307235264240/81024
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| DISNEY CHANNEL HD
 http://rv.imax.re:80/307235264240/307235264240/79633
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |SU| ATV 
+https://www.tikilive.com/c16ead25-4060-4b37-95d3-e9b11d40871e
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |SU| SCCN CH1
 http://www.sccn.tv/ffa13085-ce98-4513-8bd7-be6bd191606a
 
