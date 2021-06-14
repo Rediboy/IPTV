@@ -17,6 +17,9 @@ http://rv.imax.re:80/307235264240/307235264240/81024
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| DISNEY CHANNEL HD
 http://rv.imax.re:80/307235264240/307235264240/79633
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| TBN
+http://tbntv.suricloud.com:8880/hls/tbntv/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| ATV 12.1
 http://edge2.tikilive.com:1935/html5_tikilive/34967/amlst:mainstream/chunklist_w234337810_b2120936.m3u8
 
