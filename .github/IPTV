@@ -21,6 +21,9 @@ http://rv.imax.re:80/307235264240/307235264240/79633
 EXT-X-STREAM-INF:BANDWIDTH=2132310,CODECS="avc1.100.51,mp4a.40.2",RESOLUTION=1920x1080
 chunklist_b2132310.m3u8?p=local&op_id=19&userId=0&channelId=34967&stime=1623680271&etime=1623766671&token=0bbc02f59dc811080ced1
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |SUR| ATV 12.1 test
+https://edge2.tikilive.com/livehttporigin_tikilive/34967/amlst:mainstream/playlist.m3u8?p=local&op_id=19&userId=0&channelId=34967&stime=1623680271&etime=1623766671&token=0bbc02f59dc811080ced1
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |SUR| SCCNTV1 
 https://video1.getstreamhosting.com:1936/8040/8040/playlist.m3u8
 
