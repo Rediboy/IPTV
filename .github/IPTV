@@ -17,7 +17,17 @@ http://rv.imax.re:80/307235264240/307235264240/81024
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| DISNEY CHANNEL HD
 http://rv.imax.re:80/307235264240/307235264240/79633
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| ATV 12.1 test
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| ATV 12.1
+http://edge2.tikilive.com:1935/html5_tikilive/34967/amlst:mainstream/chunklist_w234337810_b2120936.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| ATV 12.2 test
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.atv.sr%2Fwp-content%2Fuploads%2F2017%2F08%2FAlgemene_Televisie_Verzorging.jpeg-220x198.jpeg&imgrefurl=https%3A%2F%2Fwww.atv.sr%2Fcategory%2Fschedule-widgetdo-not-use%2Fschedule-12-1-2%2F&tbnid=EMgpHIw3zNN4MM&vet=12ahUKEwjc1NuNh5jxAhUC61MKHRHdBw8QMygAegUIARCjAQ..i&docid=Dw8NRnsLFSBtYM&w=220&h=198&q=atv%2012.2%20&ved=2ahUKEwjc1NuNh5jxAhUC61MKHRHdBw8QMygAegUIARCjAQ
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| ATV 12.3 test
+https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.atv.sr%2Fwp-content%2Fuploads%2F2017%2F08%2FATV-NETWORKS-met-slogan.png&imgrefurl=https%3A%2F%2Fwww.atv.sr%2Fcategory%2Fschedule-widgetdo-not-use%2Fschedule-12-1-2%2F&tbnid=qJLSFuLpgXMYHM&vet=12ahUKEwjc1NuNh5jxAhUC61MKHRHdBw8QMygBegUIARClAQ..i&docid=Dw8NRnsLFSBtYM&w=1920&h=1080&q=atv%2012.2%20&ved=2ahUKEwjc1NuNh5jxAhUC61MKHRHdBw8QMygBegUIARClAQ
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| ATV 12.4 test
+https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.atv.sr%2Fwp-content%2Fuploads%2F2017%2F08%2FATV-NETWORKS-met-slogan.png&imgrefurl=https%3A%2F%2Fwww.atv.sr%2Fcategory%2Fschedule-widgetdo-not-use%2Fschedule-12-1-2%2F&tbnid=qJLSFuLpgXMYHM&vet=12ahUKEwjc1NuNh5jxAhUC61MKHRHdBw8QMygBegUIARClAQ..i&docid=Dw8NRnsLFSBtYM&w=1920&h=1080&q=atv%2012.2%20&ved=2ahUKEwjc1NuNh5jxAhUC61MKHRHdBw8QMygBegUIARClAQ
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| SCCNTV1 
 https://video1.getstreamhosting.com:1936/8040/8040/playlist.m3u8
