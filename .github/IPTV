@@ -21,13 +21,10 @@ http://rv.imax.re:80/307235264240/307235264240/79633
 https://www.tikilive.com/c16ead25-4060-4b37-95d3-e9b11d40871e
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |SU| SCCNTV1 
-https://video1.getstreamhosting.com:2000/dist/widgets.css
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |SU| SCCNTV2 TEST
-https://unpkg.com/video.js@7/dist/video-js.min.css
+https://video1.getstreamhosting.com:1936/8040/8040
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |SU| SCCNTV2
-https://video1.getstreamhosting.com:2000/dist/widgets.js
+https://video1.getstreamhosting.com:1936/8979/8979
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |CA| CNN INTERNATIONAL
 http://rv.imax.re:80/307235264240/307235264240/81255
