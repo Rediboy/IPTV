@@ -8,8 +8,11 @@ http://rv.imax.re:80/307235264240/307235264240/79659
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| NPO 3 HD
 http://rv.imax.re:80/307235264240/307235264240/79658
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups"  |US| CARTOON NETWORK
-http://bigbaz84.net:8880/O2a8cTD4Ho/x4RqIlRCcp/598886
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| BVN
+http://rv.imax.re:80/307235264240/307235264240/79639
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| CARTOON NETWORK
+http://rv.imax.re:80/307235264240/307235264240/81024
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| DISNEY CHANNEL HD
 http://rv.imax.re:80/307235264240/307235264240/79633
@@ -39,7 +42,7 @@ http://rv.imax.re:80/307235264240/307235264240/85069
 http://rv.imax.re:80/307235264240/307235264240/79534
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN
-http://bigbaz84.net:8880/O2a8cTD4Ho/x4RqIlRCcp/598856
+http://rv.imax.re:80/307235264240/307235264240/80944
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN 2
 http://rv.imax.re:80/307235264240/307235264240/80945
