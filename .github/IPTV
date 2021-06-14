@@ -8,8 +8,8 @@ http://rv.imax.re:80/307235264240/307235264240/79659
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| NPO 3 HD
 http://rv.imax.re:80/307235264240/307235264240/79658
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| CARTOON NETWORK
-http://rv.imax.re:80/307235264240/307235264240/79632
+#EXTINF:-1 ,hack-sat.com, US: CARTOON NETWORK
+http://bigbaz84.net:8880/O2a8cTD4Ho/x4RqIlRCcp/598886
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| DISNEY CHANNEL HD
 http://rv.imax.re:80/307235264240/307235264240/79633
@@ -19,6 +19,9 @@ http://rv.imax.re:80/307235264240/307235264240/81255
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| BBC AMERICA
 http://rv.imax.re:80/307235264240/307235264240/81050
+
+#EXTINF:-1,NL: RTL Z HD
+http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/182479
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| HGTV HD
 http://rv.imax.re:80/307235264240/307235264240/81106
@@ -35,11 +38,20 @@ http://rv.imax.re:80/307235264240/307235264240/85069
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ANIMAL PLANET HD
 http://rv.imax.re:80/307235264240/307235264240/79534
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN 1
-http://rv.imax.re:80/307235264240/307235264240/80946
+#EXTINF:-1 ,hack-sat.com, USA: ESPN
+http://bigbaz84.net:8880/O2a8cTD4Ho/x4RqIlRCcp/598856
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN 2
 http://rv.imax.re:80/307235264240/307235264240/80945
+
+#EXTINF:-1,USA: ShowTime East HD
+http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/181103
+
+#EXTINF:-1,USA: ShowTime Pacific HD
+http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/181104
+
+#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
+http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/182525
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ZIGGO SPORT VOETBAL HD
 http://rv.imax.re:80/307235264240/307235264240/79519
