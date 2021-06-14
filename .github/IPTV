@@ -20,6 +20,9 @@ http://rv.imax.re:80/307235264240/307235264240/79633
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| TBN
 http//tbntv.suricloud.com%3a8880/tbntv.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| TBN TEST 
+http://tbntv.suricloud.com:8880/hls/tbntv/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| ATV 12.1
 https//edge1.tikilive.com%3a8443/html5_tikilive/34967/amlst%3amainstream/chunklist_w815236479_b2813220.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM0OTY3JmNOYW1lPUFUViUyME5ldHdvcmtzJm9JRD0xMzY1NTUmb05hbWU9YXR2bmV0d29ya3Mmc0lkPTRxNWNwYnMxcHVqZm5rdTAzbWhhMW91dmoxJnVJRD0wJnVOYW1lPUd1ZXN0OThlMTE%253D&id=gdQU9NAAi4HW0_B_ARhS
 
