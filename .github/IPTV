@@ -94,3 +94,5 @@ http://rv.imax.re:80/307235264240/307235264240/79512
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| EUROSPORT 2 HD
 http://rv.imax.re:80/307235264240/307235264240/79511
+
+#EXTINF:-1 tvg-name="ATV 12.1" tvg-logo="LOGO IMAGE" group-title="test",ATV 12.1
