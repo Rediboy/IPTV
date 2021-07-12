@@ -95,6 +95,5 @@ http://rv.imax.re:80/307235264240/307235264240/79512
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| EUROSPORT 2 HD
 http://rv.imax.re:80/307235264240/307235264240/79511
 
-#EXTINF:6.006,
-https://edge2.tikilive.com/livehttporigin_tikilive/34967/amlst:mainstream/media-uhnfibdog_b2244506_27663.ts?p=local&op_id=19&userId=0&channelId=34967&stime=1626129834&etime=1626216234&token=02a848816b36bf4b59d0f
-
+#EXTINF:1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname" |SR| ATV 12.1
+https://edge1.tikilive.com/livehttporigin_tikilive/34967/amlst:mainstream/media-uhnfibdog_b2244506_27806.ts?p=local&op_id=19&userId=0&channelId=34967&stime=1626130169&etime=1626216569&token=0184216036b86099d9d57
