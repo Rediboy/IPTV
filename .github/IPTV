@@ -11,6 +11,9 @@ http://rv.imax.re:80/307235264240/307235264240/79658
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| BVN
 http://rv.imax.re:80/307235264240/307235264240/79639
 
+#EXTINF:-1,US: A&E FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17213
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| CARTOON NETWORK
 http://rv.imax.re:80/307235264240/307235264240/81024
 
@@ -44,8 +47,8 @@ http://rv.imax.re:80/307235264240/307235264240/85069
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ANIMAL PLANET HD
 http://rv.imax.re:80/307235264240/307235264240/79534
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN
-http://rv.imax.re:80/307235264240/307235264240/80944
+#EXTINF:-1,US: ESPN 1 HD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17663
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN 2
 http://rv.imax.re:80/307235264240/307235264240/80945
