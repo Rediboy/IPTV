@@ -9,4 +9,4 @@ https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ATV 12.1" tvg-logo="https://od.lk/s/OTdfMzc1ODY2NDdf/ATV%20LOGO.png" group-title="test", ATV 12.1
-http://www.atv.sr/live-broadcast/
+wss://tikilive.com:8080/socket.io/?c=34967&n=TIKISESSID&i=sqh7c3dk9fffd74jvv09tg56tt&EIO=3&transport=websocket&sid=AQDfslWrJ_BW0fljAFks
