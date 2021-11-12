@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| NPO 1 HD
 http://rv.imax.re:80/307235264240/307235264240/79660
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| NPO 1 HD test 
+http://tigerfights.xyz:80/jRDMdMuc/rut2nBeE/2475756.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| NPO 2 HD
 http://rv.imax.re:80/307235264240/307235264240/79659
 
