@@ -8,10 +8,11 @@
                                                     
 #                          [BETA V 2.0]
                              
-# Use for IPTV: https://raw.githubusercontent.com/Rediboy/IPTV/main/.github/IPTV 
+# Use for IPTV: https://raw.githubusercontent.com/Rediboy/IPTV/main/IPTV%20(suriname%20channels)
 
-# Version 2.0 (14 june 2021) : 
+# Version 2.1 (13 NOV 2021) : 
 # 1.FIX THE NO CHANNEL ERROR 
-# 2.NEW CHANNELS WERE ADDED  
+# 2.OPTIMIZED SOME CHANNELS 
+# 3.CLEANED UP A BIT
                              
    
