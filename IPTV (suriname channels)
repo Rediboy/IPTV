@@ -8,5 +8,38 @@ https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| SCCNTV3
 https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ATV 12.1" tvg-logo="https://od.lk/s/OTdfMzc1ODY2NDdf/ATV%20LOGO.png" group-title="test", ATV 12.1
-wss://tikilive.com:8080/socket.io/?c=34967&n=TIKISESSID&i=sqh7c3dk9fffd74jvv09tg56tt&EIO=3&transport=websocket&sid=AQDfslWrJ_BW0fljAFks
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| HBO HD
+http://rv.imax.re:80/307235264240/307235264240/81216
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| BET HD
+http://rv.imax.re:80/307235264240/307235264240/81051
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| MTV LIVE HD
+http://rv.imax.re:80/307235264240/307235264240/79584
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| EUROSPORT 1 HD
+http://rv.imax.re:80/307235264240/307235264240/79512
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| EUROSPORT 2 HD
+http://rv.imax.re:80/307235264240/307235264240/79511
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ZIGGO SPORT SELECT HD
+http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/182525
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ZIGGO SPORT VOETBAL HD
+http://rv.imax.re:80/307235264240/307235264240/79519
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| DISCOVERY HD
+http://rv.imax.re:80/307235264240/307235264240/79533
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |GENERAL| INVESTIGATION DISCOVERY
+http://rv.imax.re:80/307235264240/307235264240/85069
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ANIMAL PLANET HD
+http://rv.imax.re:80/307235264240/307235264240/79534
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |US| ESPN 
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17663
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN 2
+http://rv.imax.re:80/307235264240/307235264240/80945
