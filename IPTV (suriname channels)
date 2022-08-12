@@ -9,7 +9,7 @@ https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| HBO HD
-http://rv.imax.re:80/307235264240/307235264240/81216
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81216?checkedby:dailyfreeiptvlist.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| BET HD
 http://rv.imax.re:80/307235264240/307235264240/81051
