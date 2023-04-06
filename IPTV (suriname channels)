@@ -8,38 +8,53 @@ https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Suriname", |SUR| SCCNTV3
 https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| HBO HD
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81216?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1 tvg-id="" tvg-name="NPO 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93f0a511998e056a7c6c3e0fc3b49673.png" group-title="Netherlands ➾ LifeStyle",NPO 1
+http://iptvmedia.live:8080/F19591/d7d02309/2481
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| BET HD
-http://rv.imax.re:80/307235264240/307235264240/81051
+#EXTINF:-1 tvg-id="" tvg-name="NPO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e260f4f8c5b9194e6ea1870eb092245.png" group-title="Netherlands ➾ LifeStyle",NPO 2
+http://iptvmedia.live:8080/F19591/d7d02309/852
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| MTV LIVE HD
-http://rv.imax.re:80/307235264240/307235264240/79584
+#EXTINF:-1 tvg-id="" tvg-name="NPO 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/22353ca0f895530a66d74cd71014ac94.png" group-title="Netherlands ➾ LifeStyle",NPO 3
+http://iptvmedia.live:8080/F19591/d7d02309/280398
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| EUROSPORT 1 HD
-http://rv.imax.re:80/307235264240/307235264240/79512
+#EXTINF:-1 tvg-id="" tvg-name="RTL Z" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f6a1e92e1e20ca67fb90f478d0d9f70.png" group-title="Netherlands ➾ News",RTL Z
+http://iptvmedia.live:8080/F19591/d7d02309/2493
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| EUROSPORT 2 HD
-http://rv.imax.re:80/307235264240/307235264240/79511
+#EXTINF:-1 tvg-id="" tvg-name="RTL 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c8359f78ac722feb59712b7dbd7873f.png" group-title="Netherlands ➾ LifeStyle",RTL 4
+http://iptvmedia.live:8080/F19591/d7d02309/2488
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ZIGGO SPORT SELECT HD
-http://sharkiptvpro.xyz:80/nd77bd82hsb2/bbdjjd8273ibd/182525
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48760908a7139ae4433e279250ad8f42.png" group-title="Netherlands ➾ Movie",HBO
+http://iptvmedia.live:8080/F19591/d7d02309/45085
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ZIGGO SPORT VOETBAL HD
-http://rv.imax.re:80/307235264240/307235264240/79519
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e848f0d0f5cb26c64e8e6f971d62b570.png" group-title="Netherlands ➾ Movie",HBO 2
+http://iptvmedia.live:8080/F19591/d7d02309/39236
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| DISCOVERY HD
-http://rv.imax.re:80/307235264240/307235264240/79533
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5e361ea894402e5f0a3d02825e0c1c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 1
+http://iptvmedia.live:8080/F19591/d7d02309/5074
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |GENERAL| INVESTIGATION DISCOVERY
-http://rv.imax.re:80/307235264240/307235264240/85069
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7bea1ec666c4776b520707139174f0c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 2
+http://iptvmedia.live:8080/F19591/d7d02309/5331
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |NL| ANIMAL PLANET HD
-http://rv.imax.re:80/307235264240/307235264240/79534
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Docu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/addd41b3b4e714bc55d097a2d477fbdd.jpg" group-title="Netherlands ➾ Sports",ZIGGO Docu
+http://iptvmedia.live:8080/F19591/d7d02309/5327
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |US| ESPN 
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17663
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Voetbal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e58e720485579902f5b43088a245d978.png" group-title="Netherlands ➾ Food",ZIGGO Voetbal
+http://iptvmedia.live:8080/F19591/d7d02309/2502
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Groups", |USA| ESPN 2
-http://rv.imax.re:80/307235264240/307235264240/80945
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/95e83794b755b0154e9757a375be0fe9.png" group-title="Netherlands ➾ Documentary",Discovery World
+http://iptvmedia.live:8080/F19591/d7d02309/2453
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52c988727efb4d35bd19747f5b0da223.png" group-title="Netherlands ➾ Documentary",Discovery Science
+http://iptvmedia.live:8080/F19591/d7d02309/2454
+
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b0ebe4fbb7f984273063d65c3ae8946b.png" group-title="Netherlands ➾ Documentary",Investigation Discovery
+http://iptvmedia.live:8080/F19591/d7d02309/2471
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a944b99e2459d9afe3ffdebd250cf9e6.png" group-title="Netherlands ➾ Nature",ANIMAL PLANET
+http://iptvmedia.live:8080/F19591/d7d02309/2446
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="Netherlands ➾ Sports",ESPN
+http://iptvmedia.live:8080/F19591/d7d02309/267209 
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" group-title="Netherlands ➾ Sports",ESPN 2
+http://iptvmedia.live:8080/F19591/d7d02309/272119
