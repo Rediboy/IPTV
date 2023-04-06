@@ -35,6 +35,9 @@ http://iptvmedia.live:8080/F19591/d7d02309/5074
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7bea1ec666c4776b520707139174f0c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 2
 http://iptvmedia.live:8080/F19591/d7d02309/5331
 
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7bea1ec666c4776b520707139174f0c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 2
+http://iptvmedia.live:8080/F19591/d7d02309/5331
+
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT SELECT" tvg-logo="https://asiagrandiptv.us/logo/ziggosportselect.png" group-title="Netherlands ",NL: ZIGGO SPORT SELECT
 http://stb.velocity.watch:8080/kjohnnielou2/john/115525
 
