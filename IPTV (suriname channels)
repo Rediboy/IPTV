@@ -23,11 +23,14 @@ http://iptvmedia.live:8080/F19591/d7d02309/2493
 #EXTINF:-1 tvg-id="" tvg-name="RTL 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c8359f78ac722feb59712b7dbd7873f.png" group-title="Netherlands ➾ LifeStyle",RTL 4
 http://iptvmedia.live:8080/F19591/d7d02309/2488
 
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Voetbal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e58e720485579902f5b43088a245d978.png" group-title="Netherlands ➾ Food",ZIGGO Voetbal
+http://iptvmedia.live:8080/F19591/d7d02309/2502
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48760908a7139ae4433e279250ad8f42.png" group-title="Netherlands ➾ Movie",HBO
-http://50.7.66.234:8080/nancyesp/6969/8210
+http://iptvmedia.live:8080/F19591/d7d02309/45085
 
 #EXTINF:-1 tvg-id="" tvg-name="US.FM - HBO 2" tvg-logo="http://images.mi.tv/channels/mx_hbo-2_m.png" group-title="US - FILM & MOVIES",US.FM - HBO 2
-http://50.7.66.234:8080/nancyesp/6969/8222
+http://iptvmedia.live:8080/F19591/d7d02309/39236
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5e361ea894402e5f0a3d02825e0c1c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 1
 http://50.7.66.234:8080/nancyesp/6969/41816
