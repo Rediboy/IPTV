@@ -29,7 +29,7 @@ http://iptvmedia.live:8080/F19591/d7d02309/2502
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48760908a7139ae4433e279250ad8f42.png" group-title="Netherlands ➾ Movie",HBO
 http://iptvmedia.live:8080/F19591/d7d02309/45085
 
-#EXTINF:-1 tvg-id="" tvg-name="US.FM - HBO 2" tvg-logo="http://images.mi.tv/channels/mx_hbo-2_m.png" group-title="US - FILM & MOVIES",US.FM - HBO 2
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - HBO 2" tvg-logo="http://images.mi.tv/channels/mx_hbo-2_m.png" group-title="US - FILM & MOVIES", HBO 2
 http://iptvmedia.live:8080/F19591/d7d02309/39236
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5e361ea894402e5f0a3d02825e0c1c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 1
