@@ -26,7 +26,7 @@ http://iptvmedia.live:8080/F19591/d7d02309/2488
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO Voetbal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e58e720485579902f5b43088a245d978.png" group-title="Netherlands ➾ Food",ZIGGO Voetbal
 http://iptvmedia.live:8080/F19591/d7d02309/2502
 
-#EXTINF:-1,US: tvg-id="" tvg-name="A&E" tvg-logo="https://www.opendrive.com/files/MV8zNTE2MTI5Nl96RzRxNw#:~:text=https%3A//od.lk/d/MV8zMDEwNjQyNTRf/AE%2Dlogo.png" group-title="Netherlands ➾ Movie",A&E
+#EXTINF:-1,US: tvg-id="" tvg-name="A&E" tvg-logo="https://od.lk/d/MV8zMDEwNjQyNTRf/AE-logo.png" group-title="Netherlands ➾ Movie",A&E
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2746
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48760908a7139ae4433e279250ad8f42.png" group-title="Netherlands ➾ Movie",HBO
@@ -53,16 +53,16 @@ http://premiumiptvmk.com:8080/05add9be/df28c0b5be/480
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="NEWS", BBC America
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2277
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/95e83794b755b0154e9757a375be0fe9.png" group-title="Netherlands ➾ Documentary",Discovery World
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://od.lk/d/MV8zMDEwNjcyNzVf/Discovery%20World.png" group-title="Netherlands ➾ Documentary",Discovery World
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/755
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52c988727efb4d35bd19747f5b0da223.png" group-title="Netherlands ➾ Documentary",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://od.lk/d/MV8zMDEwNjcyOTlf/Discovery%20science.jpg" group-title="Netherlands ➾ Documentary",Discovery Science
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2301
 
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b0ebe4fbb7f984273063d65c3ae8946b.png" group-title="Netherlands ➾ Documentary",Investigation Discovery
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://od.lk/d/MV8zMDEwNjczMTdf/discovery%20investigation.png" group-title="Netherlands ➾ Documentary",Investigation Discovery
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/8557
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a944b99e2459d9afe3ffdebd250cf9e6.png" group-title="Netherlands ➾ Nature",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://od.lk/d/MV8zMDEwNjczOThf/Animal%20planet.png" group-title="Netherlands ➾ Nature",ANIMAL PLANET
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/6329
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="Netherlands ➾ Sports",ESPN
