@@ -38,6 +38,9 @@ http://50.7.66.234:8080/nancyesp/6969/41816
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7bea1ec666c4776b520707139174f0c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 2
 http://50.7.66.234:8080/nancyesp/6969/1072129
 
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Undefined", BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/95e83794b755b0154e9757a375be0fe9.png" group-title="Netherlands ➾ Documentary",Discovery World
 http://50.7.66.234:8080/nancyesp/6969/4076
 
