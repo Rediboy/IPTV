@@ -17,7 +17,7 @@ http://iptvmedia.live:8080/F19591/d7d02309/852
 #EXTINF:-1 tvg-id="" tvg-name="NPO 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/22353ca0f895530a66d74cd71014ac94.png" group-title="Netherlands ➾ LifeStyle",NPO 3
 http://iptvmedia.live:8080/F19591/d7d02309/280398
 
-#EXTINF:-1,NL: BVN
+#EXTINF:-1, tvg-id="" tvg-name="BVN" tvg-logo="https://od.lk/d/MV8zMDEwNjgxMzRf/BVN.png" group-title="Netherlands ➾ News",BVN  
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/151670
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL Z" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f6a1e92e1e20ca67fb90f478d0d9f70.png" group-title="Netherlands ➾ News",RTL Z
