@@ -26,11 +26,20 @@ http://iptvmedia.live:8080/F19591/d7d02309/2488
 #EXTINF:-1 tvg-id="" tvg-name="ZIGGO Voetbal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e58e720485579902f5b43088a245d978.png" group-title="Netherlands ➾ Food",ZIGGO Voetbal
 http://iptvmedia.live:8080/F19591/d7d02309/2502
 
+#EXTINF:-1,US: tvg-id="" tvg-name="A&E" tvg-logo="https://www.opendrive.com/files/MV8zNTE2MTI5Nl96RzRxNw#:~:text=https%3A//od.lk/d/MV8zMDEwNjQyNTRf/AE%2Dlogo.png" group-title="Netherlands ➾ Movie",A&E
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2746
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48760908a7139ae4433e279250ad8f42.png" group-title="Netherlands ➾ Movie",HBO
 http://iptvmedia.live:8080/F19591/d7d02309/45085
 
 #EXTINF:-1 tvg-id="" tvg-name="US.FM - HBO 2" tvg-logo="http://images.mi.tv/channels/mx_hbo-2_m.png" group-title="US - FILM & MOVIES", HBO 2
 http://iptvmedia.live:8080/F19591/d7d02309/39236
+
+#EXTINF:-1, tvg-id="" tvg-name="TLC" tvg-logo="https://od.lk/d/MV8zMDEwNjYzNjNf/download%20%281%29.png" group-title="US - FILM & MOVIES",TLC
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2362
+
+#EXTINF:-1,US: tvg-id="" tvg-name="TNT" tvg-logo="https://od.lk/d/MV8zMDEwNjY0Njdf/TNT.png" group-title="US - FILM & MOVIES",TNT
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/769
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5e361ea894402e5f0a3d02825e0c1c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 1
 http://50.7.66.234:8080/nancyesp/6969/41816
@@ -38,26 +47,26 @@ http://50.7.66.234:8080/nancyesp/6969/41816
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7bea1ec666c4776b520707139174f0c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 2
 http://50.7.66.234:8080/nancyesp/6969/1072129
 
-#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Undefined", BBC America
-https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1,US: tvg-id="" tvg-name="CNN USA" tvg-logo="https://od.lk/d/MV8zMDEwNjU1NzNf/CNN.png" group-title="Netherlands ➾,CNN
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/480
+
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="NEWS", BBC America
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2277
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/95e83794b755b0154e9757a375be0fe9.png" group-title="Netherlands ➾ Documentary",Discovery World
-http://50.7.66.234:8080/nancyesp/6969/4076
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/755
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52c988727efb4d35bd19747f5b0da223.png" group-title="Netherlands ➾ Documentary",Discovery Science
-http://50.7.66.234:8080/nancyesp/6969/18770
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2301
 
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b0ebe4fbb7f984273063d65c3ae8946b.png" group-title="Netherlands ➾ Documentary",Investigation Discovery
-http://50.7.66.234:8080/nancyesp/6969/4123
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/8557
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a944b99e2459d9afe3ffdebd250cf9e6.png" group-title="Netherlands ➾ Nature",ANIMAL PLANET
-http://50.7.66.234:8080/nancyesp/6969/18771
-
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a944b99e2459d9afe3ffdebd250cf9e6.png" group-title="Netherlands ➾ Nature",ANIMAL PLANET 1
-http://50.7.66.234:8080/nancyesp/6969/4067
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/6329
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="Netherlands ➾ Sports",ESPN
-http://50.7.66.234:8080/nancyesp/6969/33469
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/747
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" group-title="Netherlands ➾ Sports",ESPN 2
-http://50.7.66.234:8080/nancyesp/6969/43637
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/41918
