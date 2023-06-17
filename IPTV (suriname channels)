@@ -17,6 +17,9 @@ http://iptvmedia.live:8080/F19591/d7d02309/852
 #EXTINF:-1 tvg-id="" tvg-name="NPO 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/22353ca0f895530a66d74cd71014ac94.png" group-title="Netherlands ➾ LifeStyle",NPO 3
 http://iptvmedia.live:8080/F19591/d7d02309/280398
 
+#EXTINF:-1,NL: BVN
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/151670
+
 #EXTINF:-1 tvg-id="" tvg-name="RTL Z" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f6a1e92e1e20ca67fb90f478d0d9f70.png" group-title="Netherlands ➾ News",RTL Z
 http://iptvmedia.live:8080/F19591/d7d02309/2493
 
@@ -42,10 +45,10 @@ http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2362
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/769
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5e361ea894402e5f0a3d02825e0c1c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 1
-http://50.7.66.234:8080/nancyesp/6969/41816
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/5074
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7bea1ec666c4776b520707139174f0c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 2
-http://50.7.66.234:8080/nancyesp/6969/1072129
+http://premiumiptvmk.com:8080/05add9be/df28c0b5be/5331
 
 #EXTINF:-1,US: tvg-id="" tvg-name="CNN USA" tvg-logo="https://od.lk/d/MV8zMDEwNjU1NzNf/CNN.png" group-title="Netherlands ➾,CNN
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/480
