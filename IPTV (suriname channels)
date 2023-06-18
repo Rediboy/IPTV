@@ -38,11 +38,17 @@ http://iptvmedia.live:8080/F19591/d7d02309/45085
 #EXTINF:-1 tvg-id="" tvg-name="US.FM - HBO 2" tvg-logo="http://images.mi.tv/channels/mx_hbo-2_m.png" group-title="US - FILM & MOVIES", HBO 2
 http://iptvmedia.live:8080/F19591/d7d02309/39236
 
-#EXTINF:-1, tvg-id="" tvg-name="TLC" tvg-logo="https://od.lk/d/MV8zMDEwNjYzNjNf/download%20%281%29.png" group-title="US - FILM & MOVIES",TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://od.lk/d/MV8zMDEwNjYzNjNf/download%20%281%29.png" group-title="US - FILM & MOVIES",TLC
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/2362
 
-#EXTINF:-1,US: tvg-id="" tvg-name="TNT" tvg-logo="https://od.lk/d/MV8zMDEwNjY0Njdf/TNT.png" group-title="US - FILM & MOVIES",TNT
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://od.lk/d/MV8zMDEwNjY0Njdf/TNT.png" group-title="US - FILM & MOVIES",TNT
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/769
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://od.lk/d/MV8zMDEwNjY0Njdf/TNT.png" group-title="US - FILM & MOVIES",TNT 2
+http://live.baltazar.pro:80/eki154whats/yjCDBpe8BO/19962
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://od.lk/d/MV8zMDEwNzc5ODBf/HGTV.png" group-title="US - FILM & MOVIES",HGTV
+http://live.baltazar.pro:80/eki154whats/yjCDBpe8BO/19969
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5e361ea894402e5f0a3d02825e0c1c6.png" group-title="Netherlands ➾ Sports",EUROSPORT 1
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/5074
