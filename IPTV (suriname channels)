@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://od.lk/d/MV8zMDEwNjc0NDdf/sccn.png" group-title="Groups", |SUR| SCCNTV1 
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/d/MV8zMDEwNjc0NDdf/sccn.png" group-title="Groups", |SUR| SCCNTV1 
 https://video1.getstreamhosting.com:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://od.lk/d/MV8zMDEwNjc0NDdf/sccn.png" group-title="Suriname", |SUR| SCCNTV2
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/d/MV8zMDEwNjc0NDdf/sccn.png" group-title="Suriname", |SUR| SCCNTV2
 https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://od.lk/d/MV8zMDEwNjc0NDdf/sccn.png" group-title="Suriname", |SUR| SCCNTV3
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/d/MV8zMDEwNjc0NDdf/sccn.png" group-title="Suriname", |SUR| SCCNTV3
 https://video1.getstreamhosting.com:1936/8979/8979/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NPO 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93f0a511998e056a7c6c3e0fc3b49673.png" group-title="Netherlands ➾ LifeStyle",NPO 1
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93f0a511998e056a7c6c3e0fc3b49673.png" group-title="Netherlands ➾ LifeStyle",NPO 1
 http://iptvmedia.live:8080/F19591/d7d02309/2481
 
-#EXTINF:-1 tvg-id="" tvg-name="NPO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e260f4f8c5b9194e6ea1870eb092245.png" group-title="Netherlands ➾ LifeStyle",NPO 2
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-name="NPO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e260f4f8c5b9194e6ea1870eb092245.png" group-title="Netherlands ➾ LifeStyle",NPO 2
 http://iptvmedia.live:8080/F19591/d7d02309/852
 
-#EXTINF:-1 tvg-id="" tvg-name="NPO 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/22353ca0f895530a66d74cd71014ac94.png" group-title="Netherlands ➾ LifeStyle",NPO 3
+#EXTINF:-1 tvg-id="	NPO3.nl" tvg-name="NPO 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/22353ca0f895530a66d74cd71014ac94.png" group-title="Netherlands ➾ LifeStyle",NPO 3
 http://iptvmedia.live:8080/F19591/d7d02309/280398
 
-#EXTINF:-1, tvg-id="" tvg-name="BVN" tvg-logo="https://od.lk/d/MV8zMDEwNjgxMzRf/BVN.png" group-title="Netherlands ➾ News",BVN  
+#EXTINF:-1, tvg-id="BVN.nl" tvg-name="BVN" tvg-logo="https://od.lk/d/MV8zMDEwNjgxMzRf/BVN.png" group-title="Netherlands ➾ News",BVN  
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/151670
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL Z" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f6a1e92e1e20ca67fb90f478d0d9f70.png" group-title="Netherlands ➾ News",RTL Z
