@@ -14,13 +14,13 @@ http://iptvmedia.live:8080/F19591/d7d02309/2481
 #EXTINF:-1 tvg-id="NPO2.nl" tvg-name="NPO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e260f4f8c5b9194e6ea1870eb092245.png" group-title="Netherlands ➾ LifeStyle",NPO 2
 http://iptvmedia.live:8080/F19591/d7d02309/852
 
-#EXTINF:-1 tvg-id="	NPO3.nl" tvg-name="NPO 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/22353ca0f895530a66d74cd71014ac94.png" group-title="Netherlands ➾ LifeStyle",NPO 3
+#EXTINF:-1 tvg-id="NPO3.nl" tvg-name="NPO 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/22353ca0f895530a66d74cd71014ac94.png" group-title="Netherlands ➾ LifeStyle",NPO 3
 http://iptvmedia.live:8080/F19591/d7d02309/280398
 
 #EXTINF:-1, tvg-id="BVN.nl" tvg-name="BVN" tvg-logo="https://od.lk/d/MV8zMDEwNjgxMzRf/BVN.png" group-title="Netherlands ➾ News",BVN  
 http://premiumiptvmk.com:8080/05add9be/df28c0b5be/151670
 
-#EXTINF:-1 tvg-id="" tvg-name="RTL Z" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f6a1e92e1e20ca67fb90f478d0d9f70.png" group-title="Netherlands ➾ News",RTL Z
+#EXTINF:-1 tvg-id="RTLZ.nl" tvg-name="RTL Z" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f6a1e92e1e20ca67fb90f478d0d9f70.png" group-title="Netherlands ➾ News",RTL Z
 http://iptvmedia.live:8080/F19591/d7d02309/2493
 
 #EXTINF:-1 tvg-id="RTL4.nl" tvg-name="RTL 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c8359f78ac722feb59712b7dbd7873f.png" group-title="Netherlands ➾ LifeStyle",RTL 4
